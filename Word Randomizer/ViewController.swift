@@ -80,7 +80,7 @@ class ViewController: UIViewController {
             }
             else if n == 12 {
                 wordLabel.text = "resilient"
-                wordDef = "something being able to withstand or recover quickly"
+                wordDef = "something being able to withstand something or recover quickly"
             }
             else if n == 13 {
                 wordLabel.text = "vital"
